@@ -1,3 +1,10 @@
+
+5.10.x (yyyy-mm-dd)
+
+Fixed:
+* Locale: Fix truncated exported XML file.
+
+
 5.10.0  (2021-05-16)
 ------------------
 
